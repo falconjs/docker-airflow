@@ -1,0 +1,53 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="40">
+            <item index="0" class="java.lang.String" itemvalue="pathspec" />
+            <item index="1" class="java.lang.String" itemvalue="libgcc-ng" />
+            <item index="2" class="java.lang.String" itemvalue="typed-ast" />
+            <item index="3" class="java.lang.String" itemvalue="libffi" />
+            <item index="4" class="java.lang.String" itemvalue="ptyprocess" />
+            <item index="5" class="java.lang.String" itemvalue="ld_impl_linux-64" />
+            <item index="6" class="java.lang.String" itemvalue="sklearn" />
+            <item index="7" class="java.lang.String" itemvalue="gst" />
+            <item index="8" class="java.lang.String" itemvalue="ncurses" />
+            <item index="9" class="java.lang.String" itemvalue="glib" />
+            <item index="10" class="java.lang.String" itemvalue="pcre" />
+            <item index="11" class="java.lang.String" itemvalue="appdirs" />
+            <item index="12" class="java.lang.String" itemvalue="fontconfig" />
+            <item index="13" class="java.lang.String" itemvalue="lcms2" />
+            <item index="14" class="java.lang.String" itemvalue="nbstripout" />
+            <item index="15" class="java.lang.String" itemvalue="expat" />
+            <item index="16" class="java.lang.String" itemvalue="semver" />
+            <item index="17" class="java.lang.String" itemvalue="pyqt" />
+            <item index="18" class="java.lang.String" itemvalue="icu" />
+            <item index="19" class="java.lang.String" itemvalue="sip" />
+            <item index="20" class="java.lang.String" itemvalue="gstreamer" />
+            <item index="21" class="java.lang.String" itemvalue="itsdangerous" />
+            <item index="22" class="java.lang.String" itemvalue="jupyterlab" />
+            <item index="23" class="java.lang.String" itemvalue="numpy-base" />
+            <item index="24" class="java.lang.String" itemvalue="readline" />
+            <item index="25" class="java.lang.String" itemvalue="werkzeug" />
+            <item index="26" class="java.lang.String" itemvalue="qt" />
+            <item index="27" class="java.lang.String" itemvalue="black" />
+            <item index="28" class="java.lang.String" itemvalue="libuuid" />
+            <item index="29" class="java.lang.String" itemvalue="python_abi" />
+            <item index="30" class="java.lang.String" itemvalue="libxml2" />
+            <item index="31" class="java.lang.String" itemvalue="pexpect" />
+            <item index="32" class="java.lang.String" itemvalue="libedit" />
+            <item index="33" class="java.lang.String" itemvalue="dbus" />
+            <item index="34" class="java.lang.String" itemvalue="libstdcxx-ng" />
+            <item index="35" class="java.lang.String" itemvalue="jupyterlab-launcher" />
+            <item index="36" class="java.lang.String" itemvalue="libxcb" />
+            <item index="37" class="java.lang.String" itemvalue="mkl_random" />
+            <item index="38" class="java.lang.String" itemvalue="kedro-viz" />
+            <item index="39" class="java.lang.String" itemvalue="flask" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
